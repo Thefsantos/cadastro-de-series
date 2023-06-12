@@ -1,0 +1,15 @@
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\bin\Debug\net7.0\Cadastro-de-Series.exe
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\bin\Debug\net7.0\Cadastro-de-Series.deps.json
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\bin\Debug\net7.0\Cadastro-de-Series.runtimeconfig.json
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\bin\Debug\net7.0\Cadastro-de-Series.dll
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\bin\Debug\net7.0\Cadastro-de-Series.pdb
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\obj\Debug\net7.0\Cadastro-de-Series.csproj.AssemblyReference.cache
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\obj\Debug\net7.0\Cadastro-de-Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\obj\Debug\net7.0\Cadastro-de-Series.AssemblyInfoInputs.cache
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\obj\Debug\net7.0\Cadastro-de-Series.AssemblyInfo.cs
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\obj\Debug\net7.0\Cadastro-de-Series.csproj.CoreCompileInputs.cache
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\obj\Debug\net7.0\Cadastro-de-Series.dll
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\obj\Debug\net7.0\refint\Cadastro-de-Series.dll
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\obj\Debug\net7.0\Cadastro-de-Series.pdb
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\obj\Debug\net7.0\Cadastro-de-Series.genruntimeconfig.cache
+C:\Users\DESIGN 1\Desktop\workspace\Cadastro-de-Series\obj\Debug\net7.0\ref\Cadastro-de-Series.dll
